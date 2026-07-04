@@ -66,3 +66,4 @@ npm install --prefix client
 npm run build --prefix client
 ```
 
+The setup of task-tracker is completed
