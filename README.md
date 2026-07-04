@@ -66,6 +66,3 @@ npm install --prefix client
 npm run build --prefix client
 ```
 
-Set this frontend environment variable to the deployed backend URL:
-
-- `VITE_API_URL`
